@@ -2,7 +2,7 @@
 
 Sudoku Solver implemented in C using the Backtracking Algorithm. This program takes a predefined 9×9 Sudoku puzzle, validates possible numbers according to Sudoku rules, and recursively fills the empty cells until a valid solution is found.
 
-Features
+## Key Features
 <ul>
 <li>Solves a 9×9 Sudoku puzzle automatically.</li>
 <li>Uses recursive backtracking to explore possible solutions.</li>
