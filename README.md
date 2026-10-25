@@ -16,3 +16,6 @@ Sudoku Solver implemented in C using the Backtracking Algorithm. This program ta
 <li>Displays both the original puzzle and the solved puzzle in a formatted grid.</li>
 <li>Handles unsolvable puzzles with an appropriate message.</li>
 </ul>
+
+## Sudoku Solver Output Screenshot in C
+<img width="1470" height="858" alt="image" src="https://github.com/user-attachments/assets/0feccd2d-6fda-4c10-9063-334c73b1b1b8" />
