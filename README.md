@@ -18,4 +18,5 @@ Sudoku Solver implemented in C using the Backtracking Algorithm. This program ta
 </ul>
 
 ## Sudoku Solver Output Screenshot in C
-<img width="1470" height="858" alt="image" src="https://github.com/user-attachments/assets/0feccd2d-6fda-4c10-9063-334c73b1b1b8" />
+<img width="1515" height="901" alt="image" src="https://github.com/user-attachments/assets/545b172e-3524-4400-8c4a-c02305358a2f" />
+
